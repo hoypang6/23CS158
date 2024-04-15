@@ -1,0 +1,30 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  fl_chart: ^0.66.2
+  flame: ^1.14.0
+  flame_tiled: ^1.18.3
+  flutter:
+    sdk: flutter
+  health: ^9.0.0
+  shared_preferences: ^2.2.2
+  tuple: ^2.0.2
+  vector_math: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  test: ^1.24.9
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - assets/tiles/
+    - assets/images/

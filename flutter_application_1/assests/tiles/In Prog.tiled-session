@@ -1,0 +1,86 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/level2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/In Prog.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/beachside.tmx": {
+            "scale": 0.9076,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 498.56765094755406,
+                "y": 265.53547818422214
+            }
+        },
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/level2.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 384.5,
+                "y": 192
+            }
+        },
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/level3.tmx": {
+            "scale": 1.0007161458333333,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 384.22483898249953,
+                "y": 192.8618827662481
+            }
+        },
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/test screen.tmx": {
+            "scale": 1.0007161458333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.22483898249953,
+                "y": 192.8618827662481
+            }
+        },
+        "/Users/sylnie/Downloads/free_defense-main/assets/tiles/0929.tmx": {
+            "scale": 0.5588,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 265.748031496063,
+                "y": 598.6041517537581
+            }
+        },
+        "/Users/sylnie/Downloads/free_defense-main/assets/tiles/0929.tmx#1": {
+            "scaleInDock": 1
+        },
+        "In Prog.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test screen.tmx": {
+            "scale": 0.8573,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 419.3397877055873,
+                "y": 200.6298845211711
+            }
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/beachside.tmx",
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/level2.tmx"
+    ],
+    "project": "In Prog.tiled-project",
+    "recentFiles": [
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/beachside.tmx",
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/level2.tmx",
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/level3.tmx",
+        "/Users/sylnie/Downloads/free_defense-main/assets/tiles/0929.tmx",
+        "/Users/sylnie/Development/Project Test/flutter_application_1/assets/tiles/test screen.tmx",
+        "In Prog.tsx",
+        "test screen.tmx"
+    ]
+}
